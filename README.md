@@ -1,6 +1,6 @@
 Exploring Player Data On Stratus - A Web Scraping & Data Analysis Project
 ---
-See my blog post about this project for a code walkthrough and for the full analysis: [sinnott.netlify.app](https://sinnott.netlify.app/docs/exploring-player-data-on-stratus-a-web-scraping-and-eda-project/)
+See my blog post about this project for a code walkthrough and for the full analysis: [philipsinnott.com](https://philipsinnott.com/docs/projects/exploring-player-data-on-stratus-a-web-scraping-data-analysis-project/)
 
 # Preview
 ![image](https://user-images.githubusercontent.com/56341190/215549538-cd29bdea-fdcb-44f7-b206-1e4ae7dab44d.png)
